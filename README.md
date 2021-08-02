@@ -5,6 +5,6 @@ Autonomous code is the complete automation of the robot's movement for 30 second
 TeleOP Code- Manual Control of the robot through a game controller. Robot's movement based on trigonometric algorithm that allows for precise direction
 
 Awards- 
-December 2019 Regionals- First Place 
-Control Award- Effective use of sensors and algorithmic programming to optimize robot’s movements 
+* December 2019 Regionals- First Place 
+* Control Award- Effective use of sensors and algorithmic programming to optimize robot’s movements 
 
